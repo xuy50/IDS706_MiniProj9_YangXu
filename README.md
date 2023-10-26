@@ -1,24 +1,19 @@
 # IDS706_MiniProj9_YangXu
-# Cloud-Hosted Notebook Data Manipulation
+Cloud-Hosted Notebook Data Manipulation
 
 ## Requirements:
 1. Set up a cloud-hosted Jupyter Notebook (e.g., Google Colab).
 2. Perform data manipulation tasks on a sample dataset.
 
-## Grading Criteria:
-- **Setup and configuration (20 points)**
-- **Data manipulation tasks (20 points)**
 
 ## Deliverables:
 - Link to the cloud-hosted notebook.
 - Document demonstrating the tasks performed.
 
----
 
 ## Link to the Notebook:
 [Google Colab Notebook](https://colab.research.google.com/drive/1QTL-9692wflyE_5fZWD1uHWNgIioqPA9)
 
----
 
 ## Project Implementation:
 
@@ -29,7 +24,6 @@
 2. Sign in with your Google account.
 3. Click on 'NEW NOTEBOOK' to create a new Jupyter notebook.
 
----
 
 ### Data Manipulation:
 
