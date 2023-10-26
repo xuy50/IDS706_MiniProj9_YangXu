@@ -1,14 +1,11 @@
 # IDS706_MiniProj9_YangXu
-Cloud-Hosted Notebook Data Manipulation
+Cloud-Hosted Notebook Data Manipulation<br>
+This project centers around utilizing cloud-hosted Jupyter Notebooks, specifically on Google Colab, to demonstrate proficiency in data manipulation tasks. From the initial setup and configuration of the cloud environment to delving deep into data manipulation techniques, a wide range of tasks are executed. Leveraging the seaborn library, a sample dataset detailing flight records serves as our playground. Key data manipulation tasks undertaken include filtering, aggregation, pivot table creation, data transformation, and the handling of missing values. To encapsulate the entire process, the project delivers both a link to the hosted notebook and a comprehensive document that delineates each task performed.
+
 
 ## Requirements:
 1. Set up a cloud-hosted Jupyter Notebook (e.g., Google Colab).
 2. Perform data manipulation tasks on a sample dataset.
-
-
-## Deliverables:
-- Link to the cloud-hosted notebook.
-- Document demonstrating the tasks performed.
 
 
 ## Link to the Notebook:
